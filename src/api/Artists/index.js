@@ -1,0 +1,1 @@
+export { default as ArtistService } from './ArtistService.js';
